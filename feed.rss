@@ -4,15 +4,15 @@
         <title>Misskeyをはじめよう</title>
         <link>https://join.misskey.page</link>
         <description>いつまでも進化する、洗練されたマイクロブログSNS Misskey（ミスキー）</description>
-        <lastBuildDate>Sat, 04 Jan 2020 02:36:41 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <lastBuildDate>Sat, 04 Jan 2020 12:20:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>© Misskey</copyright>
         <atom:link href="https://join.misskey.page/feed.atom" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[joinmisskeyのアップデート]]></title>
             <link>https://join.misskey.page/ja/blog/2019/11/23-1-about-jm?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/11/23-1-about-jm?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/11/23-1-about-jm</guid>
             <pubDate>Fri, 22 Nov 2019 23:05:00 GMT</pubDate>
             <description><![CDATA[joinmisskeyを断続的にアップデートし、改良を加えました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/11/marching1.jpg"/>
@@ -20,7 +20,7 @@
         <item>
             <title><![CDATA[最近の更新 ～11.35.0]]></title>
             <link>https://join.misskey.page/ja/blog/2019/11/01-1-changes-113500?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/11/01-1-changes-113500?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/11/01-1-changes-113500</guid>
             <pubDate>Fri, 01 Nov 2019 06:45:00 GMT</pubDate>
             <description><![CDATA[一対一でのトークを連合するように、カスタム絵文字をカテゴリ分け出来るように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/11/P_20190812_114755.jpg"/>
@@ -28,7 +28,7 @@
         <item>
             <title><![CDATA[最近の更新 ～11.34.0]]></title>
             <link>https://join.misskey.page/ja/blog/2019/10/19-2-changes-113400?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/10/19-2-changes-113400?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/10/19-2-changes-113400</guid>
             <pubDate>Sat, 19 Oct 2019 11:00:01 GMT</pubDate>
             <description><![CDATA[広告ブロッカーの警告を削除、リアクションピッカーをカスタマイズできるように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/P_20190812_124323.jpg"/>
@@ -36,7 +36,7 @@
         <item>
             <title><![CDATA[join.misskey.pageへ移転]]></title>
             <link>https://join.misskey.page/ja/blog/2019/10/19-1-about-jm?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/10/19-1-about-jm?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/10/19-1-about-jm</guid>
             <pubDate>Sat, 19 Oct 2019 11:00:00 GMT</pubDate>
             <description><![CDATA[ドメイン「misskey.page」を取得し、URLをjoin.misskey.pageとしました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -44,7 +44,7 @@
         <item>
             <title><![CDATA[最近の更新 ～11.31.4]]></title>
             <link>https://join.misskey.page/ja/blog/2019/09/03-1-changes-113104?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/09/03-1-changes-113104?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/09/03-1-changes-113104</guid>
             <pubDate>Tue, 03 Sep 2019 06:30:00 GMT</pubDate>
             <description><![CDATA[誰がリアクションしたかわかるように、メモウィジェットの内容が保存されるように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -52,7 +52,7 @@
         <item>
             <title><![CDATA[最近の更新 ～11.29.0]]></title>
             <link>https://join.misskey.page/ja/blog/2019/08/20-1-changes-112900?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/08/20-1-changes-112900?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/08/20-1-changes-112900</guid>
             <pubDate>Tue, 20 Aug 2019 05:40:00 GMT</pubDate>
             <description><![CDATA[ルームの追加など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -60,7 +60,7 @@
         <item>
             <title><![CDATA[最近の更新 ～11.27.1]]></title>
             <link>https://join.misskey.page/ja/blog/2019/08/17-1-changes-112701?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/08/17-1-changes-112701?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/08/17-1-changes-112701</guid>
             <pubDate>Fri, 16 Aug 2019 15:30:00 GMT</pubDate>
             <description><![CDATA[WebAuthnサポート、削除して編集、通知のフィルタリングの追加など。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -68,7 +68,7 @@
         <item>
             <title><![CDATA[最近の更新 ～11.20.3]]></title>
             <link>https://join.misskey.page/ja/blog/2019/06/11-1-changes-112003?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/06/11-1-changes-112003?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/06/11-1-changes-112003</guid>
             <pubDate>Mon, 10 Jun 2019 15:30:00 GMT</pubDate>
             <description><![CDATA[セキュリティアップデートが含まれます。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -76,7 +76,7 @@
         <item>
             <title><![CDATA[Misskey Wiki開設]]></title>
             <link>https://join.misskey.page/ja/blog/2019/06/06-new-wiki?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/06/06-new-wiki?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/06/06-new-wiki</guid>
             <pubDate>Wed, 05 Jun 2019 22:00:00 GMT</pubDate>
             <description><![CDATA[Misskey Wikiが開設されました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -84,7 +84,7 @@
         <item>
             <title><![CDATA[最近の更新 ～11.20.0]]></title>
             <link>https://join.misskey.page/ja/blog/2019/05/27-1-changes-112000?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/05/27-1-changes-112000?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/05/27-1-changes-112000</guid>
             <pubDate>Mon, 27 May 2019 11:00:00 GMT</pubDate>
             <description><![CDATA[公式アカウントフラグの廃止とおすすめアカウント機能の追加 / Misskey Pagesの改良 ほか]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -92,7 +92,7 @@
         <item>
             <title><![CDATA[ステッカー再販]]></title>
             <link>https://join.misskey.page/ja/blog/2019/05/12-0-sticker-saihan?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/05/12-0-sticker-saihan?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/05/12-0-sticker-saihan</guid>
             <pubDate>Sun, 12 May 2019 04:40:00 GMT</pubDate>
             <description><![CDATA[Misskeyロゴステッカーが再販されます！]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/12/sticker.png"/>
@@ -100,7 +100,7 @@
         <item>
             <title><![CDATA[最近の更新 ～11.12.0]]></title>
             <link>https://join.misskey.page/ja/blog/2019/05/12-1-changes-111200?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/05/12-1-changes-111200?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/05/12-1-changes-111200</guid>
             <pubDate>Sun, 12 May 2019 04:39:00 GMT</pubDate>
             <description><![CDATA[公式アカウントフラグの廃止とおすすめアカウント機能の追加 / Misskey Pagesの改良 ほか]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -108,7 +108,7 @@
         <item>
             <title><![CDATA[最近の更新 ～11.7.0]]></title>
             <link>https://join.misskey.page/ja/blog/2019/05/01-0-changes-110700?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/05/01-0-changes-110700?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/05/01-0-changes-110700</guid>
             <pubDate>Tue, 30 Apr 2019 16:00:00 GMT</pubDate>
             <description><![CDATA[祝 令和改元 新天皇即位 / ページ（Misskey Pages）追加ほか]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -116,7 +116,7 @@
         <item>
             <title><![CDATA[公式インスタンスがmisskey.ioになります]]></title>
             <link>https://join.misskey.page/ja/blog/2019/04/15-1-misskey-io-move?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/04/15-1-misskey-io-move?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/04/15-1-misskey-io-move</guid>
             <pubDate>Sun, 14 Apr 2019 18:30:00 GMT</pubDate>
             <description><![CDATA[Misskey史上初の公式インスタンス移転です。Misskey v11リリースに伴い、misskey.xyzからmisskey.ioに引っ越しとなります。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/04/mkio.png"/>
@@ -124,7 +124,7 @@
         <item>
             <title><![CDATA[Misskey <<daybreak>> v11.0.0 Released!!]]></title>
             <link>https://join.misskey.page/ja/blog/2019/04/14-1-misskey-daybreak-12?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/04/14-1-misskey-daybreak-12?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/04/14-1-misskey-daybreak-12</guid>
             <pubDate>Sun, 14 Apr 2019 14:00:00 GMT</pubDate>
             <description><![CDATA[Misskeyの新しいバージョン「daybreak」がリリースされました。データベースソフトウェアをPostgreSQLに変更しました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/04/dbk-lg.png"/>
@@ -132,7 +132,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.100.0]]></title>
             <link>https://join.misskey.page/ja/blog/2019/04/14-0-changes?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/04/14-0-changes?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/04/14-0-changes</guid>
             <pubDate>Sun, 14 Apr 2019 14:00:00 GMT</pubDate>
             <description><![CDATA[ドライブのファイル表示の改善など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -140,7 +140,7 @@
         <item>
             <title><![CDATA[Misskey 11? ――Postgre SQL化]]></title>
             <link>https://join.misskey.page/ja/blog/2019/03/20-1-misskey-11-postgre?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/03/20-1-misskey-11-postgre?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/03/20-1-misskey-11-postgre</guid>
             <pubDate>Tue, 19 Mar 2019 17:30:00 GMT</pubDate>
             <description><![CDATA[MisskeyのデータベースをPostgreSQLに対応させるプロジェクトが進行中です。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/kyos.jpg"/>
@@ -148,7 +148,7 @@
         <item>
             <title><![CDATA[最近の更新 ～v10.97.2 リアクション自由化など]]></title>
             <link>https://join.misskey.page/ja/blog/2019/03/18-1-changes-customreaction?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/03/18-1-changes-customreaction?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/03/18-1-changes-customreaction</guid>
             <pubDate>Sun, 17 Mar 2019 20:00:00 GMT</pubDate>
             <description><![CDATA[リアクションが自由に、ほか。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/customreact.png"/>
@@ -156,7 +156,7 @@
         <item>
             <title><![CDATA[misskey.ioの直近の変化についてまとめ]]></title>
             <link>https://join.misskey.page/ja/blog/2019/03/08-3-misskey-xyz-disable-localTL?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/03/08-3-misskey-xyz-disable-localTL?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/03/08-3-misskey-xyz-disable-localTL</guid>
             <pubDate>Fri, 08 Mar 2019 02:47:00 GMT</pubDate>
             <description><![CDATA[misskey.ioはMisskeyの公式インスタンスですが、ローカルタイムラインが無効になるなど変化がありました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -164,7 +164,7 @@
         <item>
             <title><![CDATA[joinmisskeyブログの更新についてのおしらせ]]></title>
             <link>https://join.misskey.page/ja/blog/2019/03/08-2-about-jm?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/03/08-2-about-jm?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/03/08-2-about-jm</guid>
             <pubDate>Fri, 08 Mar 2019 02:46:00 GMT</pubDate>
             <description><![CDATA[各バージョンの詳細についてはリリースノートをご覧いただくようお願いします。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
@@ -172,7 +172,7 @@
         <item>
             <title><![CDATA[最近の機能追加 - Recently Added & Updated Features]]></title>
             <link>https://join.misskey.page/ja/blog/2019/03/08-1-changes?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2019/03/08-1-changes?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2019/03/08-1-changes</guid>
             <pubDate>Fri, 08 Mar 2019 02:45:00 GMT</pubDate>
             <description><![CDATA[ここ2か月間のアップデートの情報を一挙に抜粋してご紹介します！]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/11/taka4.jpg"/>
@@ -180,7 +180,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.73.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/31_update10730?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/31_update10730?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/31_update10730</guid>
             <pubDate>Sun, 30 Dec 2018 22:45:00 GMT</pubDate>
             <description><![CDATA[多くのUIの改良が行われました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/11/taka3.jpg"/>
@@ -188,7 +188,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.69.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/28_update10690?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/28_update10690?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/28_update10690</guid>
             <pubDate>Fri, 28 Dec 2018 08:15:00 GMT</pubDate>
             <description><![CDATA[多くのUIの改良が行われました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/11/taka2.jpg"/>
@@ -196,7 +196,7 @@
         <item>
             <title><![CDATA[joinmisskeyのRSSのURLが変更になりました]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/23_jmupdate?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/23_jmupdate?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/23_jmupdate</guid>
             <pubDate>Sat, 22 Dec 2018 16:45:00 GMT</pubDate>
             <description><![CDATA[RSS2, JSON1, Atom1に対応。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/11/taka1.jpg"/>
@@ -204,7 +204,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.66.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/22_update10661?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/22_update10661?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/22_update10661</guid>
             <pubDate>Sat, 22 Dec 2018 11:45:00 GMT</pubDate>
             <description><![CDATA[ユーザーのRSSフィードを取得できるように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/11/opa.jpg"/>
@@ -212,7 +212,7 @@
         <item>
             <title><![CDATA[Misskey 10.65.0(正)(続)]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/202_update10650r?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/202_update10650r?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/202_update10650r</guid>
             <pubDate>Thu, 20 Dec 2018 10:45:00 GMT</pubDate>
             <description><![CDATA[前回の記事の続きですので、前回の記事も合わせてご覧ください。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/11/jikou.jpg"/>
@@ -220,7 +220,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.65.0(仮)]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/20_update106500?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/20_update106500?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/20_update106500</guid>
             <pubDate>Wed, 19 Dec 2018 15:20:00 GMT</pubDate>
             <description><![CDATA[リリースはまだですが、次期バージョンの内容をひとあし先にお伝えします。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/10/tama.jpg"/>
@@ -228,7 +228,7 @@
         <item>
             <title><![CDATA[Misskey 10.64.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/172_update10641?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/172_update10641?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/172_update10641</guid>
             <pubDate>Mon, 17 Dec 2018 06:00:00 GMT</pubDate>
             <description><![CDATA[notes/deleteにレートリミットが付き、リアクションのアニメーションが追加された]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/10/popcorn.jpg"/>
@@ -236,7 +236,7 @@
         <item>
             <title><![CDATA[Misskey 10.64.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/17_update10640?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/17_update10640?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/17_update10640</guid>
             <pubDate>Sun, 16 Dec 2018 15:06:00 GMT</pubDate>
             <description><![CDATA[検索窓にユーザー名(@username)を入力するとそのユーザーのページに移動するように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/10/kankuuJR.jpg"/>
@@ -244,7 +244,7 @@
         <item>
             <title><![CDATA[Misskey 10.63.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/13_update10631?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/13_update10631?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/13_update10631</guid>
             <pubDate>Thu, 13 Dec 2018 05:45:00 GMT</pubDate>
             <description><![CDATA[バグ修正が中心]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/10/kakigoori.jpg"/>
@@ -252,7 +252,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.63.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/11_update10630?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/11_update10630?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/11_update10630</guid>
             <pubDate>Tue, 11 Dec 2018 14:30:00 GMT</pubDate>
             <description><![CDATA[タグ設定の改良、404エラーページの追加、多くのリファクタリング ほか]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/10/kaisatsu.jpg"/>
@@ -260,7 +260,7 @@
         <item>
             <title><![CDATA[Misskey 10.62.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/06_update10620?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/06_update10620?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/06_update10620</guid>
             <pubDate>Thu, 06 Dec 2018 10:40:00 GMT</pubDate>
             <description><![CDATA[MFM斜体・小さい文字構文追加、デッキのカラムの幅を変えられるように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/10/international.jpg"/>
@@ -268,7 +268,7 @@
         <item>
             <title><![CDATA[Misskey 10.61.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/04_update10610?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/04_update10610?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/04_update10610</guid>
             <pubDate>Mon, 03 Dec 2018 17:00:00 GMT</pubDate>
             <description><![CDATA[MFM 打消し線構文追加]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/10/frankfurt.jpg"/>
@@ -276,7 +276,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.60.4]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/03_update10604?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/03_update10604?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/03_update10604</guid>
             <pubDate>Mon, 03 Dec 2018 14:30:00 GMT</pubDate>
             <description><![CDATA[特に驚くような機能はありません。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/10/crepe.jpg"/>
@@ -284,7 +284,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.60.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/024_update10600?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/024_update10600?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/024_update10600</guid>
             <pubDate>Sun, 02 Dec 2018 07:40:00 GMT</pubDate>
             <description><![CDATA[MFM中央揃え構文の追加やサーバーで表示に最適な画像を生成するように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/10/closed.jpg"/>
@@ -292,7 +292,7 @@
         <item>
             <title><![CDATA[Misskeyロゴステッカー(第一弾)販売開始]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/023_sticker?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/023_sticker?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/023_sticker</guid>
             <pubDate>Sun, 02 Dec 2018 07:30:00 GMT</pubDate>
             <description><![CDATA[Misskey Cafe Storeより、Misskeyロゴステッカーが販売開始されます]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/12/sticker.png"/>
@@ -300,7 +300,7 @@
         <item>
             <title><![CDATA[joinmisskey更新]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/022_jmupdate?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/022_jmupdate?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/022_jmupdate</guid>
             <pubDate>Sat, 01 Dec 2018 18:55:00 GMT</pubDate>
             <description><![CDATA[スクリプトの改良]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/09/wet.jpg"/>
@@ -308,7 +308,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.59.3]]></title>
             <link>https://join.misskey.page/ja/blog/2018/12/02_update10593?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/12/02_update10593?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/12/02_update10593</guid>
             <pubDate>Sat, 01 Dec 2018 18:55:00 GMT</pubDate>
             <description><![CDATA[MFM中央揃え構文の追加やサーバーで表示に最適な画像を生成するように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/09/kwsk2.jpg"/>
@@ -316,7 +316,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.57.2]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/25_update1057?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/25_update1057?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/25_update1057</guid>
             <pubDate>Sat, 24 Nov 2018 12:03:00 GMT</pubDate>
             <description><![CDATA[GitHub NotifierがMisskeyリポジトリから分離される など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/09/kwsk.jpg"/>
@@ -324,7 +324,7 @@
         <item>
             <title><![CDATA[Misskey 10.57.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/24_update1057?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/24_update1057?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/24_update1057</guid>
             <pubDate>Fri, 23 Nov 2018 17:10:00 GMT</pubDate>
             <description><![CDATA[リモートにも引用が伝達されるように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/09/highway.jpg"/>
@@ -332,7 +332,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.56.2]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/22_update10562?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/22_update10562?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/22_update10562</guid>
             <pubDate>Wed, 21 Nov 2018 16:20:00 GMT</pubDate>
             <description><![CDATA[入れ子のMFMも認識するように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/09/bananamocchi.jpg"/>
@@ -340,7 +340,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.55.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/20_update10550?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/20_update10550?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/20_update10550</guid>
             <pubDate>Mon, 19 Nov 2018 15:30:00 GMT</pubDate>
             <description><![CDATA[モデレーターやDiscord連携の追加 など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/09/antainer.jpg"/>
@@ -348,7 +348,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.49.6]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/14_update10494?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/14_update10494?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/14_update10494</guid>
             <pubDate>Wed, 14 Nov 2018 14:25:00 GMT</pubDate>
             <description><![CDATA[ワードミュートや絵文字ピッカーの追加 など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/09/AEFDD8F1-D7B7-425F-B24B-1802CF8CDFB9.jpg"/>
@@ -356,7 +356,7 @@
         <item>
             <title><![CDATA[joinmisskey更新]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/10_2_jmupdate?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/10_2_jmupdate?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/10_2_jmupdate</guid>
             <pubDate>Sat, 10 Nov 2018 08:07:00 GMT</pubDate>
             <description><![CDATA[インスタンスリストの並べ替えを計算で行うように]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/photographers.jpg"/>
@@ -364,7 +364,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.46.2]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/10_update10462?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/10_update10462?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/10_update10462</guid>
             <pubDate>Fri, 09 Nov 2018 18:10:00 GMT</pubDate>
             <description><![CDATA[モバイルで画像をダイアログで表示するように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/keibajoato.jpg"/>
@@ -372,7 +372,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.39.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/05_3_update10390?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/05_3_update10390?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/05_3_update10390</guid>
             <pubDate>Mon, 05 Nov 2018 13:20:00 GMT</pubDate>
             <description><![CDATA[投稿本文がTwEmojiで表示されるように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/tanbo.jpg"/>
@@ -380,7 +380,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.38.6]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/05_2_update10386?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/05_2_update10386?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/05_2_update10386</guid>
             <pubDate>Sun, 04 Nov 2018 17:15:00 GMT</pubDate>
             <description><![CDATA[絵文字登録フォームに便利情報を表示 など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/bus.jpg"/>
@@ -388,7 +388,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.38.5]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/05_update10385?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/05_update10385?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/05_update10385</guid>
             <pubDate>Sun, 04 Nov 2018 15:55:00 GMT</pubDate>
             <description><![CDATA[GitHubと連携できるようになった など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/bus.jpg"/>
@@ -396,7 +396,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.38.3]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/04_3_update10383?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/04_3_update10383?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/04_3_update10383</guid>
             <pubDate>Sun, 04 Nov 2018 07:45:00 GMT</pubDate>
             <description><![CDATA[スマホ/タブレットからでも管理者ページを使えるように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/bus.jpg"/>
@@ -404,7 +404,7 @@
         <item>
             <title><![CDATA[蛇足]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/04_2_jm?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/04_2_jm?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/04_2_jm</guid>
             <pubDate>Sat, 03 Nov 2018 21:12:00 GMT</pubDate>
             <description><![CDATA[push通知のテストがてら何か書きます]]></description>
             <enclosure url="https://join.misskey.page/files/images/icons/icon.png"/>
@@ -412,7 +412,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.38.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/04_update10380?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/04_update10380?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/04_update10380</guid>
             <pubDate>Sat, 03 Nov 2018 20:00:00 GMT</pubDate>
             <description><![CDATA[カスタム絵文字がリモートと共有されるようになったり、管理画面がリニューアルされたりなど]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/metro13000.jpg"/>
@@ -420,7 +420,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.37.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/11/01_update10370?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/11/01_update10370?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/11/01_update10370</guid>
             <pubDate>Thu, 01 Nov 2018 12:00:00 GMT</pubDate>
             <description><![CDATA[カスタム絵文字機能追加]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/yakatabune2.jpg"/>
@@ -428,7 +428,7 @@
         <item>
             <title><![CDATA[Misskey 10.34.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/10/29_update103400?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/10/29_update103400?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/10/29_update103400</guid>
             <pubDate>Mon, 29 Oct 2018 14:15:00 GMT</pubDate>
             <description><![CDATA[ユーザーブロック機能追加]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/yakatabune1.jpg"/>
@@ -436,7 +436,7 @@
         <item>
             <title><![CDATA[joinmisskey更新]]></title>
             <link>https://join.misskey.page/ja/blog/2018/10/28_jmupdate?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/10/28_jmupdate?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/10/28_jmupdate</guid>
             <pubDate>Sun, 28 Oct 2018 13:45:00 GMT</pubDate>
             <description><![CDATA[見た目を新しいMisskeyと同じにしたり、RSSフィードを設置したりしました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/resortview.jpg"/>
@@ -444,7 +444,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.33.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/10/27_update103?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/10/27_update103?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/10/27_update103</guid>
             <pubDate>Fri, 26 Oct 2018 22:00:00 GMT</pubDate>
             <description><![CDATA[デッキ及び統計を中心に、様々な機能追加と不具合修正が行われました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/115.jpg"/>
@@ -452,7 +452,7 @@
         <item>
             <title><![CDATA[最近の更新 ～10.11.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/10/13_update10?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/10/13_update10?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/10/13_update10</guid>
             <pubDate>Fri, 12 Oct 2018 18:00:00 GMT</pubDate>
             <description><![CDATA[パフォーマンスの向上やサーバー設定の改良がメインです。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/kiha110-3.jpg"/>
@@ -460,7 +460,7 @@
         <item>
             <title><![CDATA[Misskey Assets Store公開]]></title>
             <link>https://join.misskey.page/ja/blog/2018/10/05_mias?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/10/05_mias?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/10/05_mias</guid>
             <pubDate>Fri, 05 Oct 2018 11:00:00 GMT</pubDate>
             <description><![CDATA[Arksoftより、Misskeyテーマを手軽に共有できるサービスが公開されました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/yurikamome.jpg"/>
@@ -468,35 +468,35 @@
         <item>
             <title><![CDATA[最近の更新 ～8.63.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/09/29_update8630?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/09/29_update8630?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/09/29_update8630</guid>
             <pubDate>Fri, 28 Sep 2018 21:30:00 GMT</pubDate>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/hijiriishi.jpg"/>
         </item>
         <item>
             <title><![CDATA[最近の更新 ～8.33.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/09/09_update8311?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/09/09_update8311?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/09/09_update8311</guid>
             <pubDate>Sun, 09 Sep 2018 14:59:00 GMT</pubDate>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/bigsight-p.jpg"/>
         </item>
         <item>
             <title><![CDATA[joinmisskey更新]]></title>
             <link>https://join.misskey.page/ja/blog/2018/09/02b_jmupdate?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/09/02b_jmupdate?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/09/02b_jmupdate</guid>
             <pubDate>Sun, 02 Sep 2018 07:45:01 GMT</pubDate>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/haikyu.jpg"/>
         </item>
         <item>
             <title><![CDATA[最近の更新 ～8.21.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/09/02a_update8211?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/09/02a_update8211?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/09/02a_update8211</guid>
             <pubDate>Sun, 02 Sep 2018 07:45:00 GMT</pubDate>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/kiha110-2.jpg"/>
         </item>
         <item>
             <title><![CDATA[最近の更新 ～8.14.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/26_update8-14-0?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/26_update8-14-0?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/26_update8-14-0</guid>
             <pubDate>Sun, 26 Aug 2018 02:00:00 GMT</pubDate>
             <description><![CDATA[Pleromaに繋がらない問題の修正、他バグ修正など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/ana.jpg"/>
@@ -504,7 +504,7 @@
         <item>
             <title><![CDATA[最近の更新 ～8.5.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/24b_update8-5-0?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/24b_update8-5-0?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/24b_update8-5-0</guid>
             <pubDate>Thu, 23 Aug 2018 22:30:00 GMT</pubDate>
             <description><![CDATA[特に目立った変更はないです]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/home.jpg"/>
@@ -512,14 +512,14 @@
         <item>
             <title><![CDATA[joinmisskey更新]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/24a_jmupdate?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/24a_jmupdate?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/24a_jmupdate</guid>
             <pubDate>Thu, 23 Aug 2018 22:00:01 GMT</pubDate>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/11.jpg"/>
         </item>
         <item>
             <title><![CDATA[最近の更新 ～8.3.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/24_update8-3-1?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/24_update8-3-1?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/24_update8-3-1</guid>
             <pubDate>Thu, 23 Aug 2018 22:00:00 GMT</pubDate>
             <description><![CDATA[特に目立った変更はないです]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/08/e7.jpg"/>
@@ -527,7 +527,7 @@
         <item>
             <title><![CDATA[最近の更新 ～7.3.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/22_update7-3-0?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/22_update7-3-0?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/22_update7-3-0</guid>
             <pubDate>Wed, 22 Aug 2018 02:00:01 GMT</pubDate>
             <description><![CDATA[Catがリモートに伝播したりなど]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/akibabara.jpg"/>
@@ -535,7 +535,7 @@
         <item>
             <title><![CDATA[18/8/20 misskey.xyzサービス停止について]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/20_2_ddos?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/20_2_ddos?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/20_2_ddos</guid>
             <pubDate>Mon, 20 Aug 2018 04:00:01 GMT</pubDate>
             <description><![CDATA[DDoS攻撃によるサービス停止と新環境について]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/omachikudasai.jpg"/>
@@ -543,7 +543,7 @@
         <item>
             <title><![CDATA[最近の更新 ～7.1.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/20_1_latestrelease?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/20_1_latestrelease?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/20_1_latestrelease</guid>
             <pubDate>Mon, 20 Aug 2018 04:00:00 GMT</pubDate>
             <description><![CDATA[バグ修正など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/hirasawa.jpg"/>
@@ -551,7 +551,7 @@
         <item>
             <title><![CDATA[最近の更新 ～6.4.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/18_latestrelease?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/18_latestrelease?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/18_latestrelease</guid>
             <pubDate>Fri, 17 Aug 2018 02:30:00 GMT</pubDate>
             <description><![CDATA[バグ修正など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/station.jpg"/>
@@ -559,7 +559,7 @@
         <item>
             <title><![CDATA[最近の更新 ～6.2.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/17_2_latestrelease?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/17_2_latestrelease?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/17_2_latestrelease</guid>
             <pubDate>Fri, 17 Aug 2018 00:00:01 GMT</pubDate>
             <description><![CDATA[いろいろ更新しました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/flower.jpg"/>
@@ -567,7 +567,7 @@
         <item>
             <title><![CDATA[🤜MISSKEY IS NOT MASTODON🤛]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/17_1_misskeyisnotmastodon?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/17_1_misskeyisnotmastodon?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/17_1_misskeyisnotmastodon</guid>
             <pubDate>Fri, 17 Aug 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[MisskeyはMastodonではありません。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/sky.jpg"/>
@@ -575,7 +575,7 @@
         <item>
             <title><![CDATA[Misskeyの無料ホスティング(β)]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/12_3_hostdon?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/12_3_hostdon?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/12_3_hostdon</guid>
             <pubDate>Sun, 12 Aug 2018 00:00:02 GMT</pubDate>
             <description><![CDATA[MastodonホスティングサービスのHostodonが、Hostdon Beta Program 第一弾として、Misskeyの無料ホスティングを始めます。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/fence.jpg"/>
@@ -583,7 +583,7 @@
         <item>
             <title><![CDATA[joinmisskeyを改良しました]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/12_2_joinmisskey_update?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/12_2_joinmisskey_update?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/12_2_joinmisskey_update</guid>
             <pubDate>Sun, 12 Aug 2018 00:00:01 GMT</pubDate>
             <description><![CDATA[このサイトをもう少しいい感じにしました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/manhole.jpg"/>
@@ -591,7 +591,7 @@
         <item>
             <title><![CDATA[最近の更新😇 (H30/8/12) ～5.22.1]]></title>
             <link>https://join.misskey.page/ja/blog/2018/08/12_1_latestrelease?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/08/12_1_latestrelease?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/08/12_1_latestrelease</guid>
             <pubDate>Sun, 12 Aug 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[misskey.io内ではコミケの話はほとんどないので、Misskeyの薄い本は当分の間出版されないかもしれません。最近の更新をお知らせします。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/denchu.jpg"/>
@@ -599,7 +599,7 @@
         <item>
             <title><![CDATA[最近の更新 (H30/7/29)]]></title>
             <link>https://join.misskey.page/ja/blog/2018/07/29_latestrelease?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/07/29_latestrelease?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/07/29_latestrelease</guid>
             <pubDate>Sun, 29 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[異例の台風に襲われています。Misskeyの直近の更新をお知らせします。ソーシャルタイムライン、サーバーの管理・導入性の向上など。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/e2337000.jpg"/>
@@ -607,7 +607,7 @@
         <item>
             <title><![CDATA[最近の更新 (H30/7/10)]]></title>
             <link>https://join.misskey.page/ja/blog/2018/07/10_latestrelease?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/07/10_latestrelease?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/07/10_latestrelease</guid>
             <pubDate>Mon, 09 Jul 2018 16:00:01 GMT</pubDate>
             <description><![CDATA[暑くなってきました……。Misskeyの直近の更新をお知らせします。検索機能が充実しました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/e235.jpg"/>
@@ -615,7 +615,7 @@
         <item>
             <title><![CDATA[「Misskeyをはじめよう」公開！]]></title>
             <link>https://join.misskey.page/ja/blog/2018/07/10_hello?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/07/10_hello?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/07/10_hello</guid>
             <pubDate>Mon, 09 Jul 2018 16:00:00 GMT</pubDate>
             <description><![CDATA[joinmastodonなどに倣って、joinmisskeyにあたるものを公開しました。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2018/07/akibabara.jpg"/>
@@ -623,7 +623,7 @@
         <item>
             <title><![CDATA[ChangeLog ～2.26.2]]></title>
             <link>https://join.misskey.page/ja/blog/2018/06/06?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/06/06?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/06/06</guid>
             <pubDate>Wed, 06 Jun 2018 00:21:44 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -631,7 +631,7 @@
         <item>
             <title><![CDATA[ChangeLog ～2.18.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/05/27?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/05/27?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/05/27</guid>
             <pubDate>Sat, 26 May 2018 16:03:26 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -639,7 +639,7 @@
         <item>
             <title><![CDATA[ChangeLog ～2.15.0]]></title>
             <link>https://join.misskey.page/ja/blog/2018/05/21?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/05/21?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/05/21</guid>
             <pubDate>Mon, 21 May 2018 10:17:04 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -647,7 +647,7 @@
         <item>
             <title><![CDATA[ChangeLog ～0.0.5089]]></title>
             <link>https://join.misskey.page/ja/blog/2018/04/22?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/04/22?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/04/22</guid>
             <pubDate>Sun, 22 Apr 2018 09:53:05 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -655,7 +655,7 @@
         <item>
             <title><![CDATA[ChangeLog ～0.0.5064]]></title>
             <link>https://join.misskey.page/ja/blog/2018/04/21?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/04/21?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/04/21</guid>
             <pubDate>Fri, 20 Apr 2018 15:00:00 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -663,7 +663,7 @@
         <item>
             <title><![CDATA[ChangeLog: nighthike]]></title>
             <link>https://join.misskey.page/ja/blog/2018/04/16?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/04/16?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/04/16</guid>
             <pubDate>Sun, 15 Apr 2018 15:14:55 GMT</pubDate>
             <description><![CDATA[nighthike初の更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -671,7 +671,7 @@
         <item>
             <title><![CDATA[nighthikeにむけて]]></title>
             <link>https://join.misskey.page/ja/blog/2018/03/28_2_nighthike?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/03/28_2_nighthike?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/03/28_2_nighthike</guid>
             <pubDate>Wed, 28 Mar 2018 10:28:54 GMT</pubDate>
             <description><![CDATA[Misskeyは次期バージョン「nighthike」に移行します。]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -679,7 +679,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2018/03/28_1?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/03/28_1?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/03/28_1</guid>
             <pubDate>Wed, 28 Mar 2018 10:28:03 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -687,7 +687,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2018/03/16?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2018/03/16?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2018/03/16</guid>
             <pubDate>Fri, 16 Mar 2018 10:24:26 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -695,7 +695,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2017/12/16?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2017/12/16?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2017/12/16</guid>
             <pubDate>Sat, 16 Dec 2017 11:51:14 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -703,7 +703,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2017/11/08?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2017/11/08?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2017/11/08</guid>
             <pubDate>Sat, 18 Nov 2017 09:18:16 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -711,7 +711,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2017/09/08?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2017/09/08?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2017/09/08</guid>
             <pubDate>Fri, 08 Sep 2017 12:08:12 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -719,7 +719,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2017/08/30?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2017/08/30?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2017/08/30</guid>
             <pubDate>Tue, 29 Aug 2017 16:57:11 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -727,7 +727,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2017/08/29?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2017/08/29?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2017/08/29</guid>
             <pubDate>Tue, 29 Aug 2017 14:06:27 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -735,7 +735,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2017/08/24?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2017/08/24?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2017/08/24</guid>
             <pubDate>Thu, 24 Aug 2017 12:28:52 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -743,7 +743,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2017/08/12?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2017/08/12?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2017/08/12</guid>
             <pubDate>Fri, 11 Aug 2017 19:56:06 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
@@ -751,7 +751,7 @@
         <item>
             <title><![CDATA[ChangeLog]]></title>
             <link>https://join.misskey.page/ja/blog/2017/08/11?rel=rss</link>
-            <guid>https://join.misskey.page/ja/blog/2017/08/11?rel=rss</guid>
+            <guid>https://join.misskey.page/ja/blog/2017/08/11</guid>
             <pubDate>Thu, 10 Aug 2017 19:01:12 GMT</pubDate>
             <description><![CDATA[更新情報]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/10/thumb.png"/>
