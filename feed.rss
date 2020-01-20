@@ -4,11 +4,19 @@
         <title>Misskeyをはじめよう</title>
         <link>https://join.misskey.page</link>
         <description>いつまでも進化する、洗練されたマイクロブログSNS Misskey（ミスキー）</description>
-        <lastBuildDate>Mon, 20 Jan 2020 08:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2020 09:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>© Misskey</copyright>
         <atom:link href="https://join.misskey.page/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[v12の進捗状況]]></title>
+            <link>https://join.misskey.page/ja/blog/2020/01/20-1-v12?rel=rss</link>
+            <guid>https://join.misskey.page/ja/blog/2020/01/20-1-v12</guid>
+            <pubDate>Mon, 20 Jan 2020 10:00:00 GMT</pubDate>
+            <description><![CDATA[v12の進捗をお伝えします。]]></description>
+            <enclosure url="https://join.misskey.page/files/images/imports/2020/01/srnsht_v12_0120.png"/>
+        </item>
         <item>
             <title><![CDATA[MisskeyHost by 村上さん クローズドベータテスト]]></title>
             <link>https://join.misskey.page/ja/blog/2020/01/11-3-misskey-host-by-aureoleark?rel=rss</link>

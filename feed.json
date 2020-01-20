@@ -6,6 +6,17 @@
     "description": "いつまでも進化する、洗練されたマイクロブログSNS Misskey（ミスキー）",
     "items": [
         {
+            "id": "https://join.misskey.page/ja/blog/2020/01/20-1-v12",
+            "url": "https://join.misskey.page/ja/blog/2020/01/20-1-v12?rel=rss",
+            "title": "v12の進捗状況",
+            "summary": "v12の進捗をお伝えします。",
+            "image": "https://join.misskey.page/files/images/imports/2020/01/srnsht_v12_0120.png",
+            "date_modified": "2020-01-20T10:00:00.000Z",
+            "author": {
+                "name": "aqz"
+            }
+        },
+        {
             "id": "https://join.misskey.page/ja/blog/2020/01/11-3-misskey-host-by-aureoleark",
             "url": "https://join.misskey.page/ja/blog/2020/01/11-3-misskey-host-by-aureoleark?rel=rss",
             "title": "MisskeyHost by 村上さん クローズドベータテスト",
