@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Misskeyをはじめよう</title>
-    <updated>2020-01-29T20:36:20.054Z</updated>
+    <updated>2020-01-30T02:36:16.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://join.misskey.page"/>
     <link rel="self" href="https://join.misskey.page/feed.atom"/>
@@ -170,7 +170,7 @@
         <id>https://join.misskey.page/ja/blog/2019/05/27-1-changes-112000</id>
         <link href="https://join.misskey.page/ja/blog/2019/05/27-1-changes-112000?rel=rss"/>
         <updated>2019-05-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[公式アカウントフラグの廃止とおすすめアカウント機能の追加 / Misskey Pagesの改良 ほか]]></summary>
+        <summary type="html"><![CDATA[新機能「グループ」、投稿のURLをペーストすると引用できるように ほか]]></summary>
         <author>
             <name>aqz</name>
             <email/>

@@ -4,7 +4,7 @@
         <title>Misskeyをはじめよう</title>
         <link>https://join.misskey.page</link>
         <description>いつまでも進化する、洗練されたマイクロブログSNS Misskey（ミスキー）</description>
-        <lastBuildDate>Wed, 29 Jan 2020 20:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2020 02:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>© Misskey</copyright>
@@ -118,7 +118,7 @@
             <link>https://join.misskey.page/ja/blog/2019/05/27-1-changes-112000?rel=rss</link>
             <guid>https://join.misskey.page/ja/blog/2019/05/27-1-changes-112000</guid>
             <pubDate>Mon, 27 May 2019 11:00:00 GMT</pubDate>
-            <description><![CDATA[公式アカウントフラグの廃止とおすすめアカウント機能の追加 / Misskey Pagesの改良 ほか]]></description>
+            <description><![CDATA[新機能「グループ」、投稿のURLをペーストすると引用できるように ほか]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/03/misskey-rd-bg-bk.png"/>
         </item>
         <item>
