@@ -53,7 +53,7 @@
             "id": "https://join.misskey.page/ja/blog/2020/01/11-1-changes-113701",
             "url": "https://join.misskey.page/ja/blog/2020/01/11-1-changes-113701?rel=rss",
             "title": "最近の更新 ～11.37.1",
-            "summary": "寒中お見舞い申し上げます。Mastodon（フォーク）の引用を解釈するように、トークの既読の連合 など",
+            "summary": "寒中お見舞い申し上げます。Mastodon（フォーク）の引用を解釈するように、チャットの既読の連合 など",
             "image": "https://join.misskey.page/files/images/imports/2020/01/inthebus.jpg",
             "date_modified": "2020-01-11T14:00:00.000Z",
             "author": {
@@ -75,7 +75,7 @@
             "id": "https://join.misskey.page/ja/blog/2019/11/01-1-changes-113500",
             "url": "https://join.misskey.page/ja/blog/2019/11/01-1-changes-113500?rel=rss",
             "title": "最近の更新 ～11.35.0",
-            "summary": "一対一でのトークを連合するように、カスタム絵文字をカテゴリ分け出来るように など",
+            "summary": "一対一でのチャットを連合するように、カスタム絵文字をカテゴリ分け出来るように など",
             "image": "https://join.misskey.page/files/images/imports/2019/11/P_20190812_114755.jpg",
             "date_modified": "2019-11-01T06:45:00.000Z",
             "author": {

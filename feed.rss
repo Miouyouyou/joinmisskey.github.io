@@ -4,7 +4,7 @@
         <title>Misskeyをはじめよう</title>
         <link>https://join.misskey.page</link>
         <description>いつまでも進化する、洗練されたマイクロブログSNS Misskey（ミスキー）</description>
-        <lastBuildDate>Sun, 23 Feb 2020 02:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2020 07:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>© Misskey</copyright>
@@ -46,7 +46,7 @@
             <link>https://join.misskey.page/ja/blog/2020/01/11-1-changes-113701?rel=rss</link>
             <guid>https://join.misskey.page/ja/blog/2020/01/11-1-changes-113701</guid>
             <pubDate>Sat, 11 Jan 2020 14:00:00 GMT</pubDate>
-            <description><![CDATA[寒中お見舞い申し上げます。Mastodon（フォーク）の引用を解釈するように、トークの既読の連合 など]]></description>
+            <description><![CDATA[寒中お見舞い申し上げます。Mastodon（フォーク）の引用を解釈するように、チャットの既読の連合 など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2020/01/inthebus.jpg"/>
         </item>
         <item>
@@ -62,7 +62,7 @@
             <link>https://join.misskey.page/ja/blog/2019/11/01-1-changes-113500?rel=rss</link>
             <guid>https://join.misskey.page/ja/blog/2019/11/01-1-changes-113500</guid>
             <pubDate>Fri, 01 Nov 2019 06:45:00 GMT</pubDate>
-            <description><![CDATA[一対一でのトークを連合するように、カスタム絵文字をカテゴリ分け出来るように など]]></description>
+            <description><![CDATA[一対一でのチャットを連合するように、カスタム絵文字をカテゴリ分け出来るように など]]></description>
             <enclosure url="https://join.misskey.page/files/images/imports/2019/11/P_20190812_114755.jpg"/>
         </item>
         <item>
