@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Misskeyをはじめよう</title>
-    <updated>2020-04-14T08:45:26.570Z</updated>
+    <updated>2020-04-14T14:37:23.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://join.misskey.page"/>
     <link rel="self" href="https://join.misskey.page/feed.atom"/>
