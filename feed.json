@@ -6,6 +6,17 @@
     "description": "いつまでも進化する、洗練されたマイクロブログSNS Misskey（ミスキー）",
     "items": [
         {
+            "id": "https://join.misskey.page/ja/blog/2020/04/26-1-changes-12361",
+            "url": "https://join.misskey.page/ja/blog/2020/04/26-1-changes-12361?rel=rss",
+            "title": "最近の更新 ～12.36.1",
+            "summary": "AiScript、リモートのカスタム絵文字リアクションを表示できるように など",
+            "image": "https://join.misskey.page/files/images/imports/2020/04/211m.jpg",
+            "date_modified": "2020-04-26T06:15:00.000Z",
+            "author": {
+                "name": "aqz"
+            }
+        },
+        {
             "id": "https://join.misskey.page/ja/blog/2020/04/23-1-about-jm",
             "url": "https://join.misskey.page/ja/blog/2020/04/23-1-about-jm?rel=rss",
             "title": "joinmisskeyのアップデート",
