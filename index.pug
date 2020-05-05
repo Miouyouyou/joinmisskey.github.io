@@ -94,7 +94,7 @@ styleRequires: ["top"]
                 p.mb-0
                   | Jouons ensemble. Vous pouvez jouer contre d'autres utilisateurs.
                   br
-                  | Vous pouvez jouez à 「Othello」, avec des régles standards ou des #[a(href="https://github.com/syuilo/misskey/issues/1200" target="_blank" rel="noopener")  règles spéciales]。Les pions étant représentés par l'icône de l'adversaire.
+                  | Vous pouvez jouer à 「Othello」, avec des régles standards ou des #[a(href="https://github.com/syuilo/misskey/issues/1200" target="_blank" rel="noopener")  règles spéciales]。Les pions étant représentés par l'icône de l'adversaire.
             +picture({src: "/files/images/imports/2019/03/reversi.png", loading: "lazy", sizes: "calc(100vw - 1rem), (min-width: 576px) 524px, (min-width: 768px) 344px, (min-width: 992px) 464px, (min-width: 1200px) 364px"})
         article.col-12.col-md-6.col-xl-4
           .card.scrollts.scrollts-fadeInLeftSmall
@@ -127,9 +127,9 @@ styleRequires: ["top"]
               .s2-card-text
                 h4 Antenne
                 p.mb-0
-                  | Recherchez vous sur Internet。
+                  | Recherchez vous sur Internet (Egosearch)。
                   br
-                  | Collectez automatiquement toutes les notes répondant aux critères de recherches spécifées dans votre antenne.
+                  | Configurez votre antenne pour récupérer toutes les notes diffusées répondant à certains critères.
         //- article.col-12.col-md-6.col-xl-4
           .card.scrollts.scrollts-fadeInLeftSmall
             .s2-card-grid
@@ -260,7 +260,7 @@ styleRequires: ["top"]
       .col-md-4.mt-2
         .font-weight-bold Nombre d'instances opérationnelles
         .h1=numeral(stats.instancesCount).format('0,0')
-    p.mb-0.mt-3.text-muted.small Calculé depuis les statistiques obtenues de chaque instance depuis le #{updateMoment.tz('Europe/Paris').format('lll z')} .
+    p.mb-0.mt-3.text-muted.small Calculé depuis les statistiques obtenues sur chaque instance depuis le #{updateMoment.tz('Europe/Paris').format('lll z')} .
 
   section#section_7: .container
     h2.text-center Soutenir le projet
@@ -273,7 +273,7 @@ styleRequires: ["top"]
     hr.my-4
     h3.text-center Soutenir Misskey
     p.text-center
-      | Aimez-ous aimez le projet ? Misskey est un projet libre et open source développé par des personnes comme vous.
+      | Vous aimez le projet ? Misskey est un projet libre et open source développé par des personnes comme vous.
       br
       | Misskey ne comporte pas de publicité afin de ne pas perturber vos relations sociales, mais le développement de ce projet coûte du temps et de l'argent.
       br

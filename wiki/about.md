@@ -1,6 +1,6 @@
 ---
 title: À propos de Misskey
-description: Misskey est une application de microblog décentralisée, écrite et activement dévelopée par syuilo, utilisant ActivityPub.
+description: Misskey est une application de microblog décentralisée, écrite et activement développée par syuilo, utilisant ActivityPub.
 layout: wiki
 has_child: false
 rank: 0
@@ -8,7 +8,7 @@ next: /wiki/first
 ---
 
 Misskey est une application de microblog décentralisée, écrite et activement développée par [syuilo](culture/users/syuilo).
-Le 8 avril 2018, le standard de communication ActivityPub ayant été implémenté, elle s'est intégrée au réseau social formé par Mastodon et autres.
+Le 8 avril 2018, le standard de communication ActivityPub ayant été implémenté, elle s'intègre au réseau social formé par Mastodon et autres.
 
 Pour commencer à utiliser Misskey, créez un compte sur une instance.
 **[Rechercher une instance](instances/)**
